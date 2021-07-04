@@ -1,4 +1,3 @@
-/* @import 'reset.css'; */
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 * {
@@ -112,6 +111,10 @@ a {
     width: 100%;
     border-style: dashed;
     border-color: #a09f9f;
+}
+
+.user-content img {
+    width:100%
 }
 
 .user-content h1 {
